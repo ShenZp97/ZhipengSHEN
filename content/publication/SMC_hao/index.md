@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted to IEEE Transactions on Systems, Man, and Cybernetics: Systems**"
+publication: "**Accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems**"
 publication_short: ""
 
 abstract: 
