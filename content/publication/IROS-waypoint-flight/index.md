@@ -16,7 +16,7 @@ publishDate: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted to IROS 2024**"
+publication: "**Accepted by IROS 2024**"
 publication_short: ""
 
 abstract: Agile flight is significant for target tracking, search and rescue, and delivery applications. To achieve agile flight, we can exploit the actuator's potential by utilizing the full dynamics of the quadrotor. However, the 6-degrees-of-freedom dynamics render the optimization problem non-convex, and thus computationally intractable. To tackle this issue, we convert the original non-convex optimal control problem (OCP) into a convex subproblem and use the sequential convex programming (SCP) algorithm to iteratively solve the subproblems. Moreover, the state-triggered constraints are proposed to simultaneously optimize the time allocation of the waypoint and the trajectory itself. The numerical and physical experiment results show that the SCP algorithm can significantly reduce the computing time while ensuring a satisfactory solution.
