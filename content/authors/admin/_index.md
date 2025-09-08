@@ -129,7 +129,7 @@ social:
 highlight_name: true
 ---
 
-Hi! I am currently a second-year Ph.D. candidate in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Dr. Hailong Huang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/), co-supervised by [Prof. Chih-Yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/). Our research group, [AIMS](https://sites.google.com/view/hailong-huang/home), is led by Dr. Huang.
+Hi! I am currently a third-year Ph.D. candidate in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Dr. Hailong Huang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/), co-supervised by [Prof. Chih-Yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/). Our research group, [AIMS](https://sites.google.com/view/hailong-huang/home), is led by Dr. Huang. During the Ph.D. journey, I visited the [DRAGON Lab](http://www.dragon.t.u-tokyo.ac.jp/) at the University of Tokyo.
 {style="text-align: justify;"}
 
 My research focuses on optimal control within robotics, including both model-based and learning-based approaches, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
