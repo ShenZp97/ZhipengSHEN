@@ -19,8 +19,8 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2024-01-01'
-doi: ''
+date: '2024-06-02'
+doi: '10.1109/IV55156.2024.10588476'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-10-11
@@ -31,7 +31,7 @@ publishDate: 2023-10-11
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '**Accepted by 2024 35th IEEE Intelligent Vehicles Symposium (IV)**'
+publication: '**35th IEEE Intelligent Vehicles Symposium (IV)**'
 publication_short: 
 
 abstract: 

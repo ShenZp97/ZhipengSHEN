@@ -4,8 +4,8 @@ authors:
 - admin
 - Guanzhong Zhou
 - Hailong Huang
-date: "2024-01-01T00:00:00Z"
-doi: ""
+date: "2024-10-14"
+doi: "10.1109/IROS58592.2024.10802749"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-10-11
@@ -13,10 +13,10 @@ publishDate: 2023-10-11
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Accepted by IROS 2024**"
+publication: "**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**"
 publication_short: ""
 
 abstract: Agile flight is significant for target tracking, search and rescue, and delivery applications. To achieve agile flight, we can exploit the actuator's potential by utilizing the full dynamics of the quadrotor. However, the 6-degrees-of-freedom dynamics render the optimization problem non-convex, and thus computationally intractable. To tackle this issue, we convert the original non-convex optimal control problem (OCP) into a convex subproblem and use the sequential convex programming (SCP) algorithm to iteratively solve the subproblems. Moreover, the state-triggered constraints are proposed to simultaneously optimize the time allocation of the waypoint and the trajectory itself. The numerical and physical experiment results show that the SCP algorithm can significantly reduce the computing time while ensuring a satisfactory solution.
@@ -38,7 +38,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/kZ6nzU0uxVw?si=P73e7GZ9ALoWIoqc'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

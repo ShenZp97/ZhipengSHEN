@@ -17,28 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Researcher | VLA/WAM for Autonomous Driving
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Hong Kong Polytechnic University
-    url: https://www.polyu.edu.hk/en/
+  - name: Huawei Intelligent Automotive Solution BU (Yinwang) — 2030 Lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. candidate at The Hong Kong Polytechnic University
+bio: Researcher working on VLA/WAM architectures and hierarchical decision-making for autonomous driving.
 
 # Interests to show in About widget
 interests:
-  - Trajectory/Motion Planning
-  - Motion Control
-  - Optimal Control
+  - Trajectory Optimization and Optimal Control
+  - Aerial Robotics and Generalized Multirotor Systems
+  - Embodied AI, VLA/WAM, and Hierarchical Decision-Making
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate
-      institution: The Hong Kong Polytechnic University, Hong Kong, China
-      year: 2022-now
+    - course: Ph.D. in Aeronautical and Aviation Engineering
+      institution: The Hong Kong Polytechnic University, Hong Kong SAR, China
+      year: 2022-2025
     - course: MEng in Control Engineering
       institution: Beihang University, Beijing, China
       year: 2019-2022
@@ -54,32 +53,37 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C and MATLAB
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 85
+        icon: code
         icon_pack: fas
-      - name: SQL
+      - name: ROS 1/2 and PX4
         description: ''
-        percent: 40
-        icon: database
+        percent: 90
+        icon: robot
+        icon_pack: fas
+      - name: Optimization and Machine Learning
+        description: ''
+        percent: 90
+        icon: brain
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 80
+        icon: basketball
         icon_pack: fas
-      - name: Cats
+      - name: Swimming
         description: ''
-        percent: 100
-        icon: cat
+        percent: 80
+        icon: person-swimming
         icon_pack: fas
       - name: Photography
         description: ''
@@ -94,7 +98,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhipeng.shen@connect.polyu.hk'
+    link: 'mailto:shenzhipeng1997@163.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -129,10 +133,13 @@ social:
 highlight_name: true
 ---
 
-Hi! I am currently a third-year Ph.D. candidate in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Dr. Hailong Huang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/), co-supervised by [Prof. Chih-Yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/). Our research group, [AIMS](https://sites.google.com/view/hailong-huang/home), is led by Dr. Huang. During the Ph.D. journey, I visited the [DRAGON Lab](http://www.dragon.t.u-tokyo.ac.jp/) at the University of Tokyo.
+Hi! I am a researcher at Huawei Intelligent Automotive Solution BU (Yinwang)'s 2030 Lab in Shanghai, where I work on VLA/WAM for autonomous driving. I develop instruction-conditioned vehicle control and the meta-decision module for a fast–slow dual-process autonomous-driving architecture, and investigate Chain of Causation (CoC)-based reasoning for high-level decision-making.
 {style="text-align: justify;"}
 
-My research focuses on optimal control within robotics, including both model-based and learning-based approaches, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
+Before joining Huawei, I received my Ph.D. from the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of [Dr. Hailong Huang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/). From October 2024 to March 2025, I was a visiting researcher at the [DRAGON Lab](http://www.dragon.t.u-tokyo.ac.jp/) at The University of Tokyo, hosted by [Dr. Moju Zhao](https://www.dragon.t.u-tokyo.ac.jp/author/moju-zhao/).
+{style="text-align: justify;"}
+
+My research spans trajectory optimization, optimal control, aerial robotics, and embodied AI. I develop convexification methods and efficient solvers for nonconvex optimal control, and combine algorithm development with full-stack experimental implementation across hardware integration, robotics software, planning, and control.
 {style="text-align: justify;"}
 
 > ***“Nothing takes place in the world whose meaning is not that of some maximum or minimum.”***  **― Leonhard Euler**

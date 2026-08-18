@@ -26,7 +26,7 @@ publishDate: 2023-10-11
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '**The 41th Chinese Control Conference (CCC)**'
+publication: '**41st Chinese Control Conference (CCC)**'
 publication_short: 
 
 abstract: 

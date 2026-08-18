@@ -1,5 +1,5 @@
 ---
-title: "Penetration trajectory optimization for the hypersonic gliding vehicle encountering two interceptors"
+title: "Penetration Trajectory Optimization for the Hypersonic Gliding Vehicle Encountering Two Interceptors"
 authors:
 - admin
 - Jianglong Yu
@@ -10,7 +10,7 @@ author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2022-01-17T00:00:00Z"
-doi: "https://doi.org/10.1016/j.ast.2022.107363"
+doi: "10.1016/j.ast.2022.107363"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-01-20T00:00:00Z
@@ -21,7 +21,7 @@ publishDate: 2022-01-20T00:00:00Z
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Aerospace Science and Technology**"
+publication: "**Aerospace Science and Technology**, vol. 121, p. 107363"
 publication_short: ""
 
 abstract: The penetration trajectory optimization problem for the hypersonic gliding vehicle (HGV) encountering two interceptors is investigated. The HGV penetration trajectory optimization problem considering the terminal target area is formulated as a nonconvex optimal control problem. The nonconvex optimal control problem is transformed into a second-order cone programming (SOCP) problem, which can be solved by state-of-the-art interior-point methods. In addition, a penetration strategy that only requires the initial line-of-sight (LOS) angle information of the interceptors is proposed. The convergent trajectory obtained by the proposed method allows the HGV to evade two interceptors and reach the target area successfully. Furthermore, a successive SOCP method with a variable trust region is presented, which is critical to balance the trade-off between time consumption and optimality. Finally, the effectiveness and performance of the proposed method are verified by numerical simulations.
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content/publication/AST2022/AST2022.pdf'
+url_pdf: 'https://arxiv.org/pdf/2204.07986'
 url_code: ''
 url_dataset: ''
 url_poster: ''

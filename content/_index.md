@@ -66,7 +66,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Other Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -74,7 +74,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       columns: '1'
       view: citation
@@ -103,28 +103,36 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Intern
+        - title: Researcher, Research Department
+          company: Huawei Intelligent Automotive Solution BU (Yinwang) — 2030 Lab
+          location: Shanghai
+          date_start: '2026-04-01'
+          date_end: ''
+          description: |2-
+              * Develop instruction-conditioned vehicle control and the meta-decision module for a fast–slow dual-process autonomous-driving architecture.
+              * Investigate VLA/WAM architectures and Chain of Causation (CoC)-based reasoning for high-level decision-making.
+
+        - title: Visiting Researcher
+          company: The University of Tokyo — DRAGON Lab
+          company_url: 'http://www.dragon.t.u-tokyo.ac.jp/'
+          location: Tokyo
+          date_start: '2024-10-01'
+          date_end: '2025-03-31'
+          description: |2-
+              * Conducted the research leading to a first-author paper in **IEEE TASE**, developing an efficient trajectory-optimization framework for generalized multirotors via sequential convex programming and convexity exploitation.
+              * Applied the framework to conventional and tiltable multicopters, spanning optimal-control formulation, solver development, implementation, and experimental validation.
+
+        - title: Research Intern
           company: Beijing Institute of Spacecraft System Engineering, China Academy of Space Technology
           company_url: 'https://www.cast.cn/english/channel/1803'
           company_logo: cast-logo
           location: Beijing
           date_start: '2021-07-01'
-          date_end: '2021-08-01'
+          date_end: '2021-07-31'
           description: |2-
-              During the internship, I participated in the approach guidance technology research of on-orbit service spacecraft rendezvous and docking, and finally won the title of **Outstanding Intern**. 
-
-              * The close approach guidance technology is mainly investigated. The Gaussian pseudospectral method is used for trajectory optimization, and LQR is used to complete the guidance process for Clohessy-Wiltshire (C-W) equations.
-              * Typical task simulations are completed using Systems Tool Kit (STK). And the guidance error caused by measurement accuracy is analyzed.
-
-              
-        # - title: Professor of Semiconductor Physics
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2016-01-01'
-        #   date_end: '2020-12-31'
-        #   description: Taught electronic engineering and researched semiconductor physics.
+              * Investigated close-approach guidance for rendezvous and docking of on-orbit servicing spacecraft; optimized relative trajectories using the Gaussian pseudospectral method and designed an LQR guidance law for the Clohessy–Wiltshire equations.
+              * Conducted representative mission simulations in Systems Tool Kit (STK) and analyzed guidance errors induced by measurement uncertainty.
+              * Received the **Outstanding Intern Award**.
     design:
       columns: '1'
 
@@ -218,8 +226,8 @@ sections:
           tag: '*'
         - name: Drone
           tag: Drone
-        # - name: Other
-        #   tag: Demo
+        - name: Spacecraft
+          tag: Spacecraft
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

@@ -22,7 +22,7 @@ publishDate: 2023-10-24
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**IEEE Transactions on Intelligent Vehicles**"
+publication: "**IEEE Transactions on Intelligent Vehicles**, vol. 9, no. 1, pp. 138–150"
 publication_short: ""
 
 abstract: This paper presents a novel trajectory planning algorithm for quadrotors landing on aerial vehicle carriers (AVCs). The algorithm involves a quadrotor trajectory planning method based on the lossless convexification (LC) theory and a sequential convex programming (SCP) method enabling quadrotors to autonomously land on both static and moving AVCs in a three-dimensional space. By incorporating landing cone constraints, the safety of the quadrotor during landing is ensured. The LC method transforms the original nonconvex optimal control problem (OCP) into a convex optimization problem, enabling the efficient computation of a 3-degree-of-freedom (3-DoF) safe landing trajectory. The designed SCP algorithm utilizes the 3-DoF trajectory as an initial guess and iteratively solves convex subproblems to obtain a safe, agile, and accurate landing trajectory for the complete 6-DoF quadrotor dynamics. Real-world experiments validate the effectiveness and real-time performance of the proposed method.
@@ -37,14 +37,14 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content/publication/TIV-landing/TIV-landing.pdf'
+url_pdf: 'https://www.researchgate.net/profile/Hailong-Huang-3/publication/374954965_Convex_Optimization-Based_Trajectory_Planning_for_Quadrotors_Landing_on_Aerial_Vehicle_Carriers/links/653faaee3cc79d48c5bc225d/Convex-Optimization-Based-Trajectory-Planning-for-Quadrotors-Landing-on-Aerial-Vehicle-Carriers.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=yUllqTXWafs'
+url_video: 'https://youtu.be/yUllqTXWafs'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

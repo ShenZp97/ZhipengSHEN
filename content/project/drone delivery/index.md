@@ -1,15 +1,16 @@
 ---
-title: Drone delivery
-summary: Drone delivery into the balcony.
+title: UAV-Based Balcony Logistics for Fourth-Generation Residential Buildings
+summary: A radar- and RTK-enabled UAV system for autonomous balcony entry and parcel delivery.
 tags:
   - Drone
-date: '2024-12-27T00:00:00Z'
+  - Aerial Robotics
+date: '2024-04-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Designed and built by me and our group members
+  caption: Student project with EHang and Huafa Group
   focal_point: Smart
 
 links:
@@ -20,7 +21,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/78g1ByrvbXg'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,8 +31,9 @@ url_video: ''
 slides: 
 ---
 
-With the popularity of online shopping in the recent decade, offline shipping has been in a state of fast development. In general, parcel shipping is divided into long-range and short-range. Long-range shipping usually refers to the process of transporting parcels between depots; while short-range usually refers to the process of transporting parcels between customers and a depot or warehouse. For the latter, the traditional method uses a van, which departs from the depot with a set of parcels and visits each customer one by one. This method is costly and non-environmental friendly. A recent concept of drone delivery has come to the front and it has been tested by some large logistics companies. Using drones for delivery may save lots of money for logistics companies if well managed. 
+As the student project lead, I developed a balcony-delivery UAV using radar and RTK positioning for autonomous entry into residential balconies and parcel delivery. The team completed system integration and on-site tests in Zhuhai from April to November 2024.
 
+I led the path-planning and motion-control development and fused radar-based obstacle avoidance with RTK localization to improve positioning accuracy and flight safety.
 
 ![1](featured.jpg "")
 ![1](aaa.png "")

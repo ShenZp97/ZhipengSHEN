@@ -1,5 +1,15 @@
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
+## Local preview
+
+From the repository root, start Hugo's development server:
+
+```powershell
+hugo server --buildDrafts --buildFuture --disableFastRender
+```
+
+Then open <http://localhost:1313/>. Hugo watches the content and configuration files and refreshes the browser automatically after each saved change.
+
 [![Screenshot](./preview.png)](https://hugoblox.com/templates/)
 
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.

@@ -7,8 +7,8 @@ authors:
 - Chao Huang
 - Hailong Huang
 - Fei-Yue Wang
-date: "2024-01-01T00:00:00Z"
-doi: ""
+date: "2024-12-01"
+doi: "10.1109/TSMC.2024.3429532"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-10-11
@@ -16,10 +16,10 @@ publishDate: 2023-10-11
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems**"
+publication: "**IEEE Transactions on Systems, Man, and Cybernetics: Systems**, vol. 54, no. 12, pp. 7558–7570"
 publication_short: ""
 
 abstract: 
@@ -42,7 +42,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.bilibili.com/video/BV16G411i7eL'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
