@@ -8,8 +8,8 @@ authors:
 - Jinliang Shao
 - Kaiyu Qin
 - Zhenbing Luo
-date: "2026-07-01"
-publishDate: "2026-07-01"
+date: "2026-07-02"
+publishDate: "2026-07-02"
 doi: "10.1016/j.cja.2026.104338"
 publication_types: ["article-journal"]
 publication: "**Chinese Journal of Aeronautics**, Article 104338"

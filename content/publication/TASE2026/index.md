@@ -9,11 +9,11 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2026-08-15"
+date: "2026-08-11"
 doi: "10.1109/TASE.2026.3722603"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-01-01"
+publishDate: "2026-08-11"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -68,7 +68,6 @@ slides:
 ---
 
 <!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}

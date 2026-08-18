@@ -8,8 +8,8 @@ authors:
 - Bingzhao Gao
 - Hong Chen
 - Wen-Hua Chen
-date: "2026-01-01"
-publishDate: "2026-01-01"
+date: "2026-07-24"
+publishDate: "2026-07-24"
 doi: "10.1109/TCST.2026.3713380"
 publication_types: ["article-journal"]
 publication: "**IEEE Transactions on Control Systems Technology (Early Access)**"

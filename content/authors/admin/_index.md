@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher | VLA/WAM for Autonomous Driving
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -133,13 +133,13 @@ social:
 highlight_name: true
 ---
 
-Hi! I am a researcher at Huawei Intelligent Automotive Solution BU (Yinwang)'s 2030 Lab in Shanghai, where I work on VLA/WAM for autonomous driving. I develop instruction-conditioned vehicle control and the meta-decision module for a fast–slow dual-process autonomous-driving architecture, and investigate Chain of Causation (CoC)-based reasoning for high-level decision-making.
+Hi! I am a researcher at Huawei Intelligent Automotive Solution BU (Yinwang)'s 2030 Lab in Shanghai, where I work on VLA/WAM for autonomous driving.
 {style="text-align: justify;"}
 
 Before joining Huawei, I received my Ph.D. from the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of [Dr. Hailong Huang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/). From October 2024 to March 2025, I was a visiting researcher at the [DRAGON Lab](http://www.dragon.t.u-tokyo.ac.jp/) at The University of Tokyo, hosted by [Dr. Moju Zhao](https://www.dragon.t.u-tokyo.ac.jp/author/moju-zhao/).
 {style="text-align: justify;"}
 
-My research spans trajectory optimization, optimal control, aerial robotics, and embodied AI. I develop convexification methods and efficient solvers for nonconvex optimal control, and combine algorithm development with full-stack experimental implementation across hardware integration, robotics software, planning, and control.
+My research spans trajectory optimization, optimal control, aerial robotics, and embodied AI.
 {style="text-align: justify;"}
 
 > ***“Nothing takes place in the world whose meaning is not that of some maximum or minimum.”***  **― Leonhard Euler**

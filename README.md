@@ -2,13 +2,21 @@
 
 ## Local preview
 
-From the repository root, start Hugo's development server:
+On Windows, run the repository-local preview launcher from the project root:
 
 ```powershell
-hugo server --buildDrafts --buildFuture --disableFastRender
+.\preview.cmd
 ```
 
-Then open <http://localhost:1313/>. Hugo watches the content and configuration files and refreshes the browser automatically after each saved change.
+The first run downloads the pinned Hugo Extended and Go toolchains into the ignored `.tools/` directory. It then opens <http://localhost:1313/> and watches the content, layouts, assets, and configuration files for changes.
+
+In VS Code, you can also run **Tasks: Run Task > Hugo: Preview ZhipengSHEN**.
+
+Use a different port if 1313 is occupied:
+
+```powershell
+.\preview.cmd -Port 1314
+```
 
 [![Screenshot](./preview.png)](https://hugoblox.com/templates/)
 
