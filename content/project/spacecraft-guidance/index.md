@@ -5,6 +5,7 @@ tags:
   - Spacecraft
   - Guidance and Control
 date: '2021-07-01'
+weight: 40
 external_link: ''
 image:
   caption: Beijing Institute of Spacecraft System Engineering, CAST

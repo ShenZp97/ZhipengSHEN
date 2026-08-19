@@ -4,6 +4,7 @@ summary: Hardware for vision-based autonomous flight.
 tags:
   - Drone
 date: '2023-12-27T00:00:00Z'
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

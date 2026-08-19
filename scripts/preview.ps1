@@ -65,6 +65,7 @@ else {
     '--buildDrafts',
     '--buildFuture',
     '--disableFastRender',
+    '--renderToMemory',
     '--navigateToChanged',
     '--port', $Port
   )
