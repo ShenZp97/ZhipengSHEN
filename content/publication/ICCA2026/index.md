@@ -16,7 +16,7 @@ tags:
 - Trajectory optimization
 - Successive convexification
 - Aerial robotics
-featured: true
+featured: false
 url_pdf: ""
 url_code: ""
 url_dataset: ""
