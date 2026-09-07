@@ -33,6 +33,7 @@ summary: This paper presents a novel trajectory planning algorithm for quadrotor
 tags:
 - Trajectory planning
 featured: true
+featured_order: 30
 
 # links:
 # - name: ""

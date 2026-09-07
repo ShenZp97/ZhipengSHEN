@@ -22,6 +22,7 @@ tags:
 - Trajectory optimization
 - Multi-robot systems
 featured: true
+featured_order: 10
 url_pdf: ""
 url_code: ""
 url_dataset: ""

@@ -19,6 +19,7 @@ tags:
 - Optimal control
 - Convex relaxation
 featured: true
+featured_order: 20
 url_pdf: "https://arxiv.org/pdf/2601.03055"
 url_code: ""
 url_dataset: ""

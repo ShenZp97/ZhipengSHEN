@@ -32,6 +32,7 @@ tags:
 - Sequential convex programming
 - Aerial robotics
 featured: true
+featured_order: 50
 
 # links:
 # - name: ""

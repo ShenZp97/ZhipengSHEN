@@ -30,7 +30,7 @@ bio: Researcher working on VLA/WAM architectures and hierarchical decision-makin
 interests:
   - Trajectory Optimization and Optimal Control
   - Aerial Robotics and Generalized Multirotor Systems
-  - Embodied AI, VLA/WAM, and Hierarchical Decision-Making
+  - Multi-Agent Planning, Swarm Autonomy, and Learning-Enabled Decision-Making
 
 # Education to show in About widget
 education:
@@ -139,7 +139,7 @@ Hi! I am a researcher at Huawei Intelligent Automotive Solution BU (Yinwang)'s 2
 Before joining Huawei, I received my Ph.D. from the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of [Dr. Hailong Huang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/). From October 2024 to March 2025, I was a visiting researcher at the [DRAGON Lab](http://www.dragon.t.u-tokyo.ac.jp/) at The University of Tokyo, hosted by [Dr. Moju Zhao](https://www.dragon.t.u-tokyo.ac.jp/author/moju-zhao/).
 {style="text-align: justify;"}
 
-My research spans trajectory optimization, optimal control, aerial robotics, and embodied AI.
+My research spans trajectory optimization, optimal control, aerial robotics, and learning-enabled autonomous systems. I am particularly interested in extending optimization-based planning toward multi-agent aerial systems, swarm autonomy, and learning-enhanced decision-making in complex environments.
 {style="text-align: justify;"}
 
 > ***“Nothing takes place in the world whose meaning is not that of some maximum or minimum.”***  **― Leonhard Euler**

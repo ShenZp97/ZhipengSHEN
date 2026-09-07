@@ -60,6 +60,8 @@ sections:
         folders:
           - publication
         featured_only: true
+      sort_by: featured_order
+      sort_ascending: false
     design:
       columns: '2'
       view: card
@@ -109,8 +111,7 @@ sections:
           date_start: '2026-04-01'
           date_end: ''
           description: |2-
-              * Develop instruction-conditioned vehicle control and the meta-decision module for a fast–slow dual-process autonomous-driving architecture.
-              * Investigate VLA/WAM architectures and Chain of Causation (CoC)-based reasoning for high-level decision-making.
+              * Develop learning-based decision and control models for autonomous driving, with a focus on trajectory-level meta-decision prediction and high-level reasoning.
 
         - title: Visiting Researcher
           company: The University of Tokyo — DRAGON Lab
